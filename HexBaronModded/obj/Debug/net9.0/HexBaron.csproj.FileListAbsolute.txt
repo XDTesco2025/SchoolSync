@@ -1,0 +1,14 @@
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\bin\Debug\net9.0\HexBaron.exe
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\bin\Debug\net9.0\HexBaron.deps.json
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\bin\Debug\net9.0\HexBaron.runtimeconfig.json
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\bin\Debug\net9.0\HexBaron.dll
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\bin\Debug\net9.0\HexBaron.pdb
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.GeneratedMSBuildEditorConfig.editorconfig
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.AssemblyInfoInputs.cache
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.AssemblyInfo.cs
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.csproj.CoreCompileInputs.cache
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.dll
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\refint\HexBaron.dll
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.pdb
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\HexBaron.genruntimeconfig.cache
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HexBaron\obj\Debug\net9.0\ref\HexBaron.dll
