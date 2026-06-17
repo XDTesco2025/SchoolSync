@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOwQJV/pwts=",
+  "success": true,
+  "projectFilePath": "\\\\kab-fs-02.kings.internal\\Students$\\2020\\jpullen20\\My Documents\\Projects\\SchoolSync\\HW24032026\\HW24032026.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpullen20\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\jpullen20\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\jpullen20\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\jpullen20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.15\\microsoft.netcore.app.host.win-x64.9.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

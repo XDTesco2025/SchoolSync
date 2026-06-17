@@ -1,0 +1,14 @@
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\bin\Debug\net9.0\HW24032026.exe
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\bin\Debug\net9.0\HW24032026.deps.json
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\bin\Debug\net9.0\HW24032026.runtimeconfig.json
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\bin\Debug\net9.0\HW24032026.dll
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\bin\Debug\net9.0\HW24032026.pdb
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.GeneratedMSBuildEditorConfig.editorconfig
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.AssemblyInfoInputs.cache
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.AssemblyInfo.cs
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.csproj.CoreCompileInputs.cache
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.dll
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\refint\HW24032026.dll
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.pdb
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\HW24032026.genruntimeconfig.cache
+\\kab-fs-02.kings.internal\Students$\2020\jpullen20\My Documents\Projects\HW24032026\obj\Debug\net9.0\ref\HW24032026.dll
