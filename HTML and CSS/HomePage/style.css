@@ -1,0 +1,58 @@
+
+h1{
+    font-family: "Stack Sans Text";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    font-family: "Stack Sans Text";
+    font-optical-sizing: auto;
+    font-weight: 271;
+    font-style: normal;
+}
+
+p{   
+    font-family: Inter;
+}
+
+.LeftLogo{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.RightLogo{
+    position: absolute;
+    top: 15px;
+    right: 160px;
+}
+
+.LeftTitle{
+    position: absolute;
+    top: 20px;
+    left: calc(50px + 25px);
+    width: 500px;
+    
+    text-align: left;
+}
+
+
+.CenterTitle{
+    position: absolute;
+    top: 20px;
+    left: 40vw;
+    width: 20vw;
+    
+    text-align: center;
+}
+
+.RightTitle{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 500px;
+
+    text-align: right;
+}
